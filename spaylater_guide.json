@@ -1,0 +1,66 @@
+{
+    "article_title": "Panduan Lengkap: Cara Daftar dan Mengaktifkan SPayLater",
+    "last_updated": "2026-07",
+    "introduction": "SPayLater adalah fitur finansial dari Shopee yang memungkinkan pengguna untuk melakukan pembelian dengan sistem 'Beli Sekarang, Bayar Nanti' (PayLater) atau dicicil hingga beberapa bulan. Panduan ini akan memandu Anda melalui seluruh proses registrasi dan aktivasi dengan aman.",
+    "requirements": [
+        "Akun Shopee aktif dan sudah terverifikasi.",
+        "Kartu Tanda Penduduk (KTP) asli yang masih berlaku.",
+        "Nomor HP yang aktif dan terhubung dengan akun Shopee untuk verifikasi OTP.",
+        "Aplikasi Shopee versi terbaru."
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Masuk ke Menu SPayLater",
+            "instruction": "Buka aplikasi Shopee di ponsel Anda. Masuk ke tab 'Saya' yang berada di pojok kanan bawah halaman utama. Di kolom 'Dompet Saya', cari dan klik menu 'SPayLater'.",
+            "visual_description": "Gambaran Layar: Antarmuka halaman profil 'Saya' di aplikasi Shopee. Terdapat lingkaran sorot merah (highlight) pada menu bertuliskan 'SPayLater' yang terletak di bawah informasi Saldo ShopeePay."
+        },
+        {
+            "step_number": 2,
+            "title": "Mulai Proses Aktivasi",
+            "instruction": "Setelah halaman SPayLater terbuka, Anda akan melihat informasi mengenai limit awal yang bisa didapatkan beserta keuntungan fiturnya. Klik tombol besar bertuliskan 'Aktifkan Sekarang' untuk memulai proses.",
+            "visual_description": "Gambaran Layar: Halaman landing page SPayLater dengan ilustrasi kartu kredit/paylater. Di bagian bawah terdapat tombol dinamis berwarna oranye mencolok dengan teks 'Aktifkan Sekarang'."
+        },
+        {
+            "step_number": 3,
+            "title": "Verifikasi Kode OTP",
+            "instruction": "Sistem Shopee akan mengirimkan kode OTP (One-Time Password) melalui SMS atau WhatsApp ke nomor ponsel yang terdaftar. Masukkan 6 digit kode tersebut ke kolom yang tersedia. Ingat, jangan pernah membagikan kode OTP ini kepada siapapun, termasuk pihak yang mengaku dari Shopee.",
+            "visual_description": "Gambaran Layar: Kolom input kode verifikasi (OTP) dengan timer hitung mundur 60 detik. Di bagian bawah terdapat teks peringatan keamanan agar menjaga kerahasiaan kode."
+        },
+        {
+            "step_number": 4,
+            "title": "Upload Foto KTP",
+            "instruction": "Langkah berikutnya adalah verifikasi identitas. Siapkan KTP asli Anda, lalu ambil foto KTP menggunakan kamera belakang ponsel melalui bingkai yang disediakan di aplikasi. Pastikan kondisi cahaya cukup terang, KTP tidak buram, teks terbaca jelas, dan foto tidak terpotong.",
+            "visual_description": "Gambaran Layar: Kamera in-app dengan garis pandu (overlay box) berbentuk persegi panjang horizontal untuk menempatkan KTP secara presisi. Ada indikator teks 'Posisikan KTP Anda di dalam bingkai'."
+        },
+        {
+            "step_number": 5,
+            "title": "Konfirmasi Data Diri",
+            "instruction": "Setelah foto KTP berhasil diunggah, sistem akan membaca data secara otomatis (OCR). Periksa kembali Nama Lengkap, NIK, dan Tanggal Lahir yang muncul. Jika ada ejaan yang salah, perbaiki secara manual. Setelah dipastikan sesuai dengan KTP asli, klik 'Konfirmasi'.",
+            "visual_description": "Gambaran Layar: Formulir konfirmasi data diri yang menampilkan kolom Nama, NIK, Tempat Lahir, dan Tanggal Lahir yang sudah terisi otomatis dari hasil scan KTP, siap untuk ditinjau oleh pengguna."
+        },
+        {
+            "step_number": 6,
+            "title": "Pengisian Informasi Tambahan",
+            "instruction": "Masukkan informasi tambahan yang diminta secara jujur dan akurat. Ini meliputi Informasi Kontak Darurat (Nama dan Nomor HP kerabat), Informasi Ibu Kandung, tingkat pendapatan bulanan, serta status pekerjaan. Data ini digunakan untuk menentukan kelayakan limit Anda.",
+            "visual_description": "Gambaran Layar: Halaman formulir data pelengkap dengan beberapa dropdown select (pilihan menu) untuk bidang pekerjaan dan pendapatan bulanan, serta input teks untuk kontak darurat."
+        },
+        {
+            "step_number": 7,
+            "title": "Verifikasi Wajah (Face Recognition)",
+            "instruction": "Langkah keamanan terakhir adalah verifikasi wajah. Klik 'Mulai Verifikasi Wajah'. Posisikan wajah Anda tepat di dalam bingkai oval di layar. Ikuti instruksi di layar, seperti mengedipkan mata atau mengangguk. Pastikan Anda tidak memakai topi, kacamata hitam, atau masker saat proses ini.",
+            "visual_description": "Gambaran Layar: Frame berbentuk oval untuk area wajah dengan latar belakang agak gelap. Terdapat instruksi teks di bagian bawah berbunyi 'Silakan kedipkan mata Anda' atau 'Hadap ke depan'."
+        },
+        {
+            "step_number": 8,
+            "title": "Menunggu Proses Peninjauan",
+            "instruction": "Setelah verifikasi wajah selesai, pengajuan Anda akan ditinjau oleh tim Shopee dan lembaga keuangan mitra. Proses peninjauan ini biasanya memakan waktu beberapa menit hingga maksimal 2x24 jam. Anda akan menerima notifikasi jika pengajuan SPayLater Anda disetujui beserta nominal limit yang diberikan.",
+            "visual_description": "Gambaran Layar: Halaman status berwarna hijau/abu-abu dengan ikon jam pasir atau centang berputar, menampilkan pesan bertuliskan 'Pengajuan Anda sedang diproses. Mohon tunggu notifikasi selanjutnya'."
+        }
+    ],
+    "safety_tips": [
+        "Gunakan limit SPayLater secara bijak sesuai dengan kemampuan bayar Anda.",
+        "Bayar tagihan tepat waktu sebelum tanggal jatuh tempo (tanggal 5, 11, atau 25 tergantung pilihan saat aktivasi) untuk menghindari denda keterlambatan.",
+        "Waspadai penipuan berkedok jasa mencairkan limit (gestun) SPayLater karena melanggar ketentuan dan rawan pembekuan akun."
+    ]
+}
