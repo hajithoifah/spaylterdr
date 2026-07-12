@@ -19,7 +19,7 @@
             "step_number": 2,
             "title": "Mulai Proses Aktivasi",
             "instruction": "Setelah halaman SPayLater terbuka, Anda akan melihat informasi mengenai limit awal yang bisa didapatkan beserta keuntungan fiturnya. Klik tombol besar bertuliskan 'Aktifkan Sekarang' untuk memulai proses.",
-            "image_url": "[MASUKKAN_URL_GAMBAR_LANGKAH_2_DISINI]"
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/bdfcadc0b129a9ac770d8bb02e733e4cffe3217c/spayguide2.jpg"
         },
         {
             "step_number": 3,
@@ -31,7 +31,7 @@
             "step_number": 4,
             "title": "Upload Foto KTP",
             "instruction": "Langkah berikutnya adalah verifikasi identitas. Siapkan KTP asli Anda, lalu ambil foto KTP menggunakan kamera belakang ponsel melalui bingkai yang disediakan di aplikasi. Pastikan kondisi cahaya cukup terang, KTP tidak buram, teks terbaca jelas, dan foto tidak terpotong.",
-            "image_url": "[MASUKKAN_URL_GAMBAR_LANGKAH_4_DISINI]"
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/bdfcadc0b129a9ac770d8bb02e733e4cffe3217c/spayguide2.jpg"
         },
         {
             "step_number": 5,
@@ -43,7 +43,7 @@
             "step_number": 6,
             "title": "Pengisian Informasi Tambahan",
             "instruction": "Masukkan informasi tambahan yang diminta secara jujur dan akurat. Ini meliputi Informasi Kontak Darurat (Nama dan Nomor HP kerabat), Informasi Ibu Kandung, tingkat pendapatan bulanan, serta status pekerjaan. Data ini digunakan untuk menentukan kelayakan limit Anda.",
-            "image_url": "[MASUKKAN_URL_GAMBAR_LANGKAH_6_DISINI]"
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/bdfcadc0b129a9ac770d8bb02e733e4cffe3217c/spayguide2.jpg"
         },
         {
             "step_number": 7,
@@ -55,7 +55,7 @@
             "step_number": 8,
             "title": "Menunggu Proses Peninjauan",
             "instruction": "Setelah verifikasi wajah selesai, pengajuan Anda akan ditinjau oleh tim Shopee dan lembaga keuangan mitra. Proses peninjauan ini biasanya memakan waktu beberapa menit hingga maksimal 2x24 jam. Anda akan menerima notifikasi jika pengajuan SPayLater Anda disetujui beserta nominal limit yang diberikan.",
-            "image_url": "[MASUKKAN_URL_GAMBAR_LANGKAH_8_DISINI]"
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/bdfcadc0b129a9ac770d8bb02e733e4cffe3217c/spayguide2.jpg"
         }
     ],
     "safety_tips": [
