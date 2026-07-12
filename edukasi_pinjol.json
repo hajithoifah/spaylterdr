@@ -1,0 +1,64 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Mengenal Perbedaan Pinjol Legal dan Ilegal",
+            "content": "Pinjaman online atau pinjol telah menjadi solusi cepat bagi banyak orang yang membutuhkan dana darurat. Namun, sangat penting untuk membedakan antara pinjol legal yang diawasi oleh Otoritas Jasa Keuangan (OJK) dan pinjol ilegal yang beroperasi tanpa izin. Pinjol legal diwajibkan mematuhi berbagai regulasi yang dirancang untuk melindungi konsumen. Mereka tidak boleh mengakses data pribadi selain kamera, mikrofon, dan lokasi, serta memiliki batasan maksimal bunga dan denda keterlambatan (saat ini 0,4% per hari untuk pinjaman multiguna). Sebaliknya, pinjol ilegal sering kali menetapkan bunga yang sangat mencekik, biaya administrasi yang disembunyikan di awal, dan praktik penagihan yang tidak beretika. Mereka kerap meminta akses ke seluruh daftar kontak di ponsel peminjam untuk melakukan intimidasi saat telat bayar. Selalu periksa legalitas aplikasi di website resmi OJK sebelum Anda memutuskan untuk meminjam. Jangan sampai solusi sesaat justru membawa Anda ke dalam jerat utang yang menghancurkan kehidupan finansial Anda di masa depan.",
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/2ac6103c646d3988c558b7a3db20c7cdbbf6247c/spayguide1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Jebakan Gali Lubang Tutup Lubang dalam Berutang",
+            "content": "Siklus 'gali lubang tutup lubang' adalah salah satu fenomena paling berbahaya dalam dunia pinjaman online. Hal ini terjadi ketika seseorang meminjam uang dari satu aplikasi pinjol semata-mata untuk melunasi utang yang telah jatuh tempo di aplikasi pinjol lainnya. Siklus ini sangat adiktif dan merusak karena setiap kali Anda meminjam baru, Anda tidak hanya menutupi pokok utang lama, tetapi juga membayar bunga dan biaya admin dari pinjaman baru tersebut. Seiring berjalannya waktu, nominal utang akan menggelembung seperti bola salju hingga akhirnya berada di luar kapasitas pembayaran Anda. Banyak kasus kebangkrutan pribadi berawal dari kebiasaan ini. Solusi terbaik jika Anda mulai kesulitan membayar utang adalah dengan menghentikan penambahan utang baru, melakukan negosiasi restrukturisasi pembayaran dengan pihak penyedia layanan legal, atau meminta bantuan keluarga. Memotong pengeluaran konsumtif secara drastis juga menjadi langkah krusial untuk menyelamatkan arus kas Anda dari kehancuran total.",
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/bdfcadc0b129a9ac770d8bb02e733e4cffe3217c/spayguide2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Pentingnya Mengelola Arus Kas Keuangan Pribadi",
+            "content": "Manajemen arus kas atau cash flow adalah fondasi utama dari kesehatan finansial setiap individu. Tanpa pemahaman yang baik tentang dari mana uang Anda berasal dan ke mana uang tersebut pergi, Anda akan mudah terjebak dalam utang konsumtif. Langkah pertama untuk mengelola arus kas adalah mencatat setiap pengeluaran sekecil apa pun selama satu bulan penuh. Setelah itu, buatlah anggaran bulanan menggunakan metode 50/30/20. Alokasikan 50% dari pendapatan Anda untuk kebutuhan pokok (kebutuhan bertahan hidup), 30% untuk keinginan (hiburan, gaya hidup), dan 20% sisanya wajib disisihkan untuk tabungan, investasi, atau pembayaran utang. Disiplin adalah kunci; jangan pernah menggunakan uang tabungan untuk memenuhi keinginan impulsif. Jika pengeluaran Anda terus-menerus melebihi pendapatan, Anda harus mencari cara untuk meningkatkan penghasilan atau secara radikal memotong pengeluaran sekunder Anda agar terhindar dari defisit yang berujung pada keharusan mengambil pinjaman.",
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/2ac6103c646d3988c558b7a3db20c7cdbbf6247c/spayguide1.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Aturan Emas: Rasio Utang Maksimal 30%",
+            "content": "Banyak perencana keuangan menyarankan aturan rasio utang maksimal sebesar 30% dari total pendapatan kotor bulanan Anda. Artinya, jika Anda memiliki gaji Rp 5.000.000 per bulan, total cicilan utang Anda (termasuk KPR, kredit kendaraan, kartu kredit, dan PayLater) tidak boleh melebihi Rp 1.500.000. Rasio ini dirancang untuk memastikan bahwa Anda masih memiliki ruang napas yang cukup untuk memenuhi kebutuhan sehari-hari dan menabung. Jika rasio utang Anda saat ini sudah melampaui angka tersebut, Anda berada dalam zona bahaya finansial yang rentan terhadap guncangan ekonomi sekecil apa pun. Saat rasio utang terlalu tinggi, setiap pengeluaran tak terduga—seperti sakit atau kendaraan rusak—akan memaksa Anda untuk berutang kembali. Segera hentikan penggunaan fasilitas kredit atau PayLater jika rasio Anda sudah melampaui batas ini, dan fokuslah untuk melunasi utang yang ada secara bertahap menggunakan metode snowball atau avalanche.",
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/bdfcadc0b129a9ac770d8bb02e733e4cffe3217c/spayguide2.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Dampak Buruk Telat Bayar pada SLIK OJK (BI Checking)",
+            "content": "Sistem Layanan Informasi Keuangan (SLIK) dari OJK, yang dulu dikenal sebagai BI Checking, adalah rekam jejak finansial yang mencatat seluruh riwayat kredit Anda. Setiap kali Anda menggunakan fasilitas pinjol legal, kartu kredit, atau PayLater, data pembayaran Anda akan dilaporkan ke SLIK. Jika Anda terlambat membayar atau bahkan gagal bayar (galbay), skor kredit Anda akan memburuk dan tercatat dalam daftar hitam (blacklist). Memiliki skor kredit yang buruk akan membawa konsekuensi panjang bagi masa depan finansial Anda. Anda akan ditolak saat mengajukan Kredit Pemilikan Rumah (KPR), kredit kendaraan, atau pinjaman modal usaha dari bank manapun. Bahkan, saat ini beberapa perusahaan besar melakukan pengecekan SLIK OJK sebagai salah satu syarat penerimaan karyawan baru. Oleh karena itu, jaga selalu reputasi kredit Anda. Jangan meminjam jika Anda ragu bisa mengembalikannya tepat waktu.",
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/2ac6103c646d3988c558b7a3db20c7cdbbf6247c/spayguide1.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Cara Membangun Dana Darurat untuk Masa Depan",
+            "content": "Dana darurat adalah uang tunai atau aset likuid yang disisihkan khusus untuk menghadapi situasi tak terduga, seperti kehilangan pekerjaan, kecelakaan, atau kerusakan rumah yang butuh perbaikan mendesak. Besaran dana darurat yang ideal bervariasi: 3-6 kali pengeluaran bulanan untuk lajang, dan 6-12 kali pengeluaran bulanan untuk mereka yang sudah berkeluarga. Memiliki dana darurat adalah perlindungan terbaik dari godaan berutang atau menggunakan pinjol. Untuk mulai membangunnya, sisihkan secara otomatis minimal 10% dari penghasilan Anda setiap kali gajian sebelum Anda menghabiskannya untuk hal lain. Simpan dana ini di instrumen investasi yang aman dan mudah dicairkan kapan saja, seperti reksa dana pasar uang atau rekening tabungan khusus yang tidak tergabung dengan kartu ATM harian. Meskipun awalnya terasa berat, konsistensi menabung dana darurat akan memberikan ketenangan pikiran yang tak ternilai harganya di saat krisis melanda.",
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/bdfcadc0b129a9ac770d8bb02e733e4cffe3217c/spayguide2.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Bahaya Gaya Hidup Konsumtif (FOMO)",
+            "content": "Fenomena Fear Of Missing Out (FOMO) atau takut tertinggal tren telah memicu gaya hidup konsumtif yang parah di kalangan generasi muda. Terpapar pameran kemewahan di media sosial sering kali membuat seseorang merasa harus memiliki barang-barang bermerek, liburan mewah, atau gadget terbaru, meskipun hal tersebut melampaui kemampuan finansial mereka. Untuk memuaskan hasrat FOMO tersebut, fasilitas PayLater dan pinjaman online sering digunakan sebagai jalan pintas. Utang konsumtif ini sangat merugikan karena barang yang dibeli biasanya langsung mengalami penyusutan nilai, sementara bunganya terus berjalan. Sadarilah bahwa apa yang terlihat di media sosial tidak selalu mencerminkan kondisi finansial yang sebenarnya. Fokuslah pada membangun kekayaan riil melalui investasi, bukan ilusi kekayaan dari barang konsumtif hasil berutang. Belajarlah untuk menunda kepuasan (delay gratification) demi kesehatan finansial jangka panjang.",
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/2ac6103c646d3988c558b7a3db20c7cdbbf6247c/spayguide1.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Strategi Melunasi Utang PayLater Tepat Waktu",
+            "content": "Jika Anda sudah terlanjur menggunakan PayLater dan memiliki cicilan berjalan, sangat penting untuk memiliki strategi pelunasan yang disiplin agar tidak terkena denda keterlambatan yang menumpuk. Pertama, ubah tanggal jatuh tempo tagihan Anda (jika memungkinkan) agar berdekatan dengan tanggal gajian Anda. Kedua, buat pengingat otomatis di kalender ponsel Anda 3 hari sebelum jatuh tempo. Ketiga, jadikan pembayaran tagihan sebagai prioritas pertama yang harus Anda selesaikan di hari gajian sebelum Anda berbelanja kebutuhan lain. Jangan pernah menunda pembayaran dengan harapan akan mendapat uang tambahan nanti. Keterlambatan satu hari saja biasanya langsung memicu denda harian yang cukup besar dan peringatan penagihan (desk collection). Jika beban cicilan sudah terlalu berat, pertimbangkan untuk melunasi penuh (early repayment) dengan mengambil dana dari tabungan, atau segera jual barang-barang yang tidak terpakai untuk menutup tagihan tersebut.",
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/bdfcadc0b129a9ac770d8bb02e733e4cffe3217c/spayguide2.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Kenali Ciri-ciri Penipuan Berkedok Pinjaman Online",
+            "content": "Modus penipuan berkedok pinjaman online semakin canggih dan banyak memakan korban. Penting untuk selalu waspada terhadap ciri-cirinya. Penipu biasanya menawarkan pinjaman melalui SMS, WhatsApp, atau media sosial pribadi, padahal pinjol legal dilarang keras melakukan penawaran melalui saluran komunikasi pribadi tanpa persetujuan. Mereka juga sering mengiming-imingi proses pencairan yang instan tanpa syarat pengecekan apa pun. Ciri yang paling fatal adalah mereka meminta Anda untuk mentransfer sejumlah uang sebagai 'uang muka', 'biaya administrasi', atau 'biaya keanggotaan' sebelum pinjaman dicairkan. Ingat, pinjaman yang sah tidak akan pernah meminta Anda membayar uang di muka. Jika Anda menemui ciri-ciri tersebut, segera blokir nomornya dan laporkan akun tersebut. Selalu verifikasi legalitas aplikasi melalui WhatsApp resmi OJK atau situs web mereka sebelum memberikan data KTP Anda.",
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/2ac6103c646d3988c558b7a3db20c7cdbbf6247c/spayguide1.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Cara Lapor Pinjol Ilegal ke Otoritas Jasa Keuangan (OJK)",
+            "content": "Jika Anda atau kerabat Anda terlanjur menjadi korban pinjol ilegal dan mengalami intimidasi, ancaman penyebaran data pribadi, atau teror yang tidak wajar, jangan panik dan jangan turuti permintaan pemerasan mereka. Segera kumpulkan bukti berupa tangkapan layar (screenshot) percakapan ancaman, bukti transfer, dan nomor rekening penagih. Anda dapat melaporkan hal ini secara resmi kepada Satgas Waspada Investasi (SWI) OJK melalui email waspadainvestasi@ojk.go.id atau melalui layanan Kontak OJK di nomor 157 dan WhatsApp 081157157157. Selain OJK, sangat disarankan untuk melaporkan tindakan pengancaman tersebut ke pihak kepolisian terdekat atau melalui portal Patroli Siber Polri. Jangan lupa untuk menginstruksikan seluruh kontak Anda agar mengabaikan pesan apa pun yang masuk dari nomor yang tidak dikenal. Memutus rantai komunikasi dengan pinjol ilegal sering kali menjadi langkah paling efektif untuk menghentikan teror.",
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/bdfcadc0b129a9ac770d8bb02e733e4cffe3217c/spayguide2.jpg"
+        }
+    ]
+}
