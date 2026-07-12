@@ -13,7 +13,7 @@
             "step_number": 1,
             "title": "Masuk ke Menu SPayLater",
             "instruction": "Buka aplikasi Shopee di ponsel Anda. Masuk ke tab 'Saya' yang berada di pojok kanan bawah halaman utama. Di kolom 'Dompet Saya', cari dan klik menu 'SPayLater'.",
-            "image_url": "[MASUKKAN_URL_GAMBAR_LANGKAH_1_DISINI]"
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/2ac6103c646d3988c558b7a3db20c7cdbbf6247c/spayguide1.jpg"
         },
         {
             "step_number": 2,
@@ -25,7 +25,7 @@
             "step_number": 3,
             "title": "Verifikasi Kode OTP",
             "instruction": "Sistem Shopee akan mengirimkan kode OTP (One-Time Password) melalui SMS atau WhatsApp ke nomor ponsel yang terdaftar. Masukkan 6 digit kode tersebut ke kolom yang tersedia. Ingat, jangan pernah membagikan kode OTP ini kepada siapapun, termasuk pihak yang mengaku dari Shopee.",
-            "image_url": "[MASUKKAN_URL_GAMBAR_LANGKAH_3_DISINI]"
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/2ac6103c646d3988c558b7a3db20c7cdbbf6247c/spayguide1.jpg"
         },
         {
             "step_number": 4,
@@ -37,7 +37,7 @@
             "step_number": 5,
             "title": "Konfirmasi Data Diri",
             "instruction": "Setelah foto KTP berhasil diunggah, sistem akan membaca data secara otomatis (OCR). Periksa kembali Nama Lengkap, NIK, dan Tanggal Lahir yang muncul. Jika ada ejaan yang salah, perbaiki secara manual. Setelah dipastikan sesuai dengan KTP asli, klik 'Konfirmasi'.",
-            "image_url": "[MASUKKAN_URL_GAMBAR_LANGKAH_5_DISINI]"
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/2ac6103c646d3988c558b7a3db20c7cdbbf6247c/spayguide1.jpg"
         },
         {
             "step_number": 6,
@@ -49,7 +49,7 @@
             "step_number": 7,
             "title": "Verifikasi Wajah (Face Recognition)",
             "instruction": "Langkah keamanan terakhir adalah verifikasi wajah. Klik 'Mulai Verifikasi Wajah'. Posisikan wajah Anda tepat di dalam bingkai oval di layar. Ikuti instruksi di layar, seperti mengedipkan mata atau mengangguk. Pastikan Anda tidak memakai topi, kacamata hitam, atau masker saat proses ini.",
-            "image_url": "[MASUKKAN_URL_GAMBAR_LANGKAH_7_DISINI]"
+            "image_url": "https://github.com/hajithoifah/spaylterdr/blob/2ac6103c646d3988c558b7a3db20c7cdbbf6247c/spayguide1.jpg"
         },
         {
             "step_number": 8,
