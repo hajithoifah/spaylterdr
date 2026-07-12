@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "quote": "Jangan besar pasak daripada tiang. Atur pengeluaran agar selalu lebih kecil dari pendapatan.",
+        "author": "Peribahasa Indonesia"
+    },
+    {
+        "id": 2,
+        "quote": "Sebelum membeli sesuatu, tanyakan pada diri sendiri: Apakah ini kebutuhan atau sekadar keinginan?",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 3,
+        "quote": "Cicilan PayLater hari ini adalah beban bagi penghasilanmu di masa depan.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 4,
+        "quote": "Cara terbaik untuk menghemat uang adalah dengan tidak menghabiskannya untuk hal yang tidak perlu.",
+        "author": "Anonim"
+    },
+    {
+        "id": 5,
+        "quote": "Investasi terbaik yang bisa Anda lakukan adalah investasi pada diri sendiri (leher ke atas).",
+        "author": "Warren Buffett"
+    },
+    {
+        "id": 6,
+        "quote": "Uang adalah hamba yang baik, tetapi tuan yang sangat kejam.",
+        "author": "P.T. Barnum"
+    },
+    {
+        "id": 7,
+        "quote": "Jangan menabung apa yang tersisa setelah dibelanjakan, tetapi belanjakan apa yang tersisa setelah ditabung.",
+        "author": "Warren Buffett"
+    },
+    {
+        "id": 8,
+        "quote": "Kekayaan bukan tentang seberapa banyak uang yang Anda hasilkan, tapi seberapa banyak yang Anda simpan.",
+        "author": "Robert Kiyosaki"
+    },
+    {
+        "id": 9,
+        "quote": "PayLater mempermudah transaksi, tetapi jika tidak dikontrol, ia akan mempersulit keuanganmu.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 10,
+        "quote": "Orang kaya membeli aset, orang kelas menengah membeli liabilitas yang mereka pikir adalah aset.",
+        "author": "Robert Kiyosaki"
+    },
+    {
+        "id": 11,
+        "quote": "Bukan masalah seberapa besar pendapatanmu, tapi seberapa pintar kamu mengelolanya.",
+        "author": "Anonim"
+    },
+    {
+        "id": 12,
+        "quote": "Utang konsumtif adalah pencuri kebahagiaan masa depan.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 13,
+        "quote": "Disiplin finansial hari ini adalah kebebasan finansial di masa depan.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 14,
+        "quote": "Jangan taruh semua telurmu dalam satu keranjang. Diversifikasikan tokomu atau investasimu.",
+        "author": "Andrew Carnegie"
+    },
+    {
+        "id": 15,
+        "quote": "Membeli barang untuk memamerkan uang yang tidak kamu miliki adalah resep menuju kemiskinan.",
+        "author": "Anonim"
+    },
+    {
+        "id": 16,
+        "quote": "Dana darurat bukanlah pilihan, melainkan sebuah kewajiban sebelum Anda mulai berinvestasi.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 17,
+        "quote": "Waktu adalah aset terbesar dalam investasi. Mulailah sedini mungkin.",
+        "author": "Anonim"
+    },
+    {
+        "id": 18,
+        "quote": "Kebebasan finansial tercapai saat asetmu menghasilkan cukup uang untuk membiayai gaya hidupmu.",
+        "author": "Robert Kiyosaki"
+    },
+    {
+        "id": 19,
+        "quote": "Beli hanya barang yang membuat Anda senang jika pasar tutup selama sepuluh tahun.",
+        "author": "Warren Buffett"
+    },
+    {
+        "id": 20,
+        "quote": "Setiap kali Anda meminjam uang, Anda sedang merampok diri Anda yang di masa depan.",
+        "author": "Nathan W. Morris"
+    },
+    {
+        "id": 21,
+        "quote": "Aturan Nomor 1: Jangan pernah kehilangan uang. Aturan Nomor 2: Jangan pernah lupa Aturan Nomor 1.",
+        "author": "Warren Buffett"
+    },
+    {
+        "id": 22,
+        "quote": "Banyak orang menghabiskan uang yang belum mereka hasilkan untuk membeli barang yang tidak mereka inginkan.",
+        "author": "Will Rogers"
+    },
+    {
+        "id": 23,
+        "quote": "Kemampuan menunda kepuasan instan adalah kunci utama kecerdasan finansial.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 24,
+        "quote": "Jangan biarkan diskon menipu Anda untuk membeli barang yang sebenarnya tidak Anda butuhkan.",
+        "author": "Anonim"
+    },
+    {
+        "id": 25,
+        "quote": "Anggaran keuangan memberi tahu uang Anda ke mana harus pergi, bukan membuat Anda bingung ke mana uang itu pergi.",
+        "author": "John C. Maxwell"
+    },
+    {
+        "id": 26,
+        "quote": "Investasi dalam pengetahuan selalu memberikan bunga terbaik.",
+        "author": "Benjamin Franklin"
+    },
+    {
+        "id": 27,
+        "quote": "Hati-hati dengan pengeluaran kecil; kebocoran kecil bisa menenggelamkan kapal yang besar.",
+        "author": "Benjamin Franklin"
+    },
+    {
+        "id": 28,
+        "quote": "Gaya hidup yang terlalu tinggi sering kali memicu stres keuangan yang tidak perlu.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 29,
+        "quote": "Jika kamu membeli barang yang tidak kamu butuhkan, segera kamu harus menjual barang yang kamu butuhkan.",
+        "author": "Warren Buffett"
+    },
+    {
+        "id": 30,
+        "quote": "Menjadi kaya secara diam-diam jauh lebih baik daripada terlihat kaya namun terlilit utang.",
+        "author": "Anonim"
+    },
+    {
+        "id": 31,
+        "quote": "Utang produktif menghasilkan uang, utang konsumtif menghabiskan uang.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 32,
+        "quote": "Catat setiap pengeluaranmu. Sadari ke mana perginya setiap rupiah yang kamu hasilkan.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 33,
+        "quote": "Bukan seberapa cepat kamu berlari menuju kekayaan, tapi seberapa kokoh fondasi keuanganmu.",
+        "author": "Anonim"
+    },
+    {
+        "id": 34,
+        "quote": "Ketenangan pikiran finansial dimulai saat kamu tidak lagi hidup dari gaji ke gaji.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 35,
+        "quote": "PayLater adalah kemudahan sementara dengan tanggung jawab jangka panjang.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 36,
+        "quote": "Investasikan waktumu sebelum menginvestasikan uangmu.",
+        "author": "Anonim"
+    },
+    {
+        "id": 37,
+        "quote": "Fokuslah meningkatkan kapasitas pendapatan, sembari menjaga pengeluaran tetap stabil.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 38,
+        "quote": "Uang tidak bisa membeli kebahagiaan, tetapi kemiskinan tidak bisa membeli apa-apa.",
+        "author": "Anonim"
+    },
+    {
+        "id": 39,
+        "quote": "Siapkan payung sebelum hujan. Siapkan dana darurat sebelum krisis melanda.",
+        "author": "Peribahasa Finansial"
+    },
+    {
+        "id": 40,
+        "quote": "Keberuntungan finansial berpihak pada mereka yang memiliki perencanaan matang.",
+        "author": "Anonim"
+    },
+    {
+        "id": 41,
+        "quote": "Kurangi gengsi, perbanyak investasi. Gengsi tidak akan membuat tabunganmu bertambah.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 42,
+        "quote": "Kunci hidup tenang adalah bersyukur dengan apa yang dimiliki dan tidak iri dengan milik orang lain.",
+        "author": "Anonim"
+    },
+    {
+        "id": 43,
+        "quote": "Inflasi gaya hidup adalah musuh tersembunyi dari setiap kenaikan gaji.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 44,
+        "quote": "Berinvestasilah pada instrumen yang Anda pahami cara kerjanya.",
+        "author": "Warren Buffett"
+    },
+    {
+        "id": 45,
+        "quote": "Pekerjaan memberikan Anda penghasilan, tetapi pengelolaan keuangan memberikan Anda kekayaan.",
+        "author": "Anonim"
+    },
+    {
+        "id": 46,
+        "quote": "Masa muda adalah waktu terbaik untuk membangun kebiasaan keuangan yang sehat.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 47,
+        "quote": "Jangan korbankan kebebasan masa depan demi kesenangan lima menit hari ini.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 48,
+        "quote": "Menolak tawaran utang konsumtif adalah bentuk perlindungan diri terbaik.",
+        "author": "Anonim"
+    },
+    {
+        "id": 49,
+        "quote": "Pilihlah investasi yang legal dan logis, hindari iming-iming keuntungan cepat.",
+        "author": "OJK Indonesia"
+    },
+    {
+        "id": 50,
+        "quote": "Kemiskinan finansial sering kali berawal dari kemiskinan literasi keuangan.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 51,
+        "quote": "Kekayaan sejati adalah kemampuan untuk menjalani hidup dengan pilihan yang bebas.",
+        "author": "Anonim"
+    },
+    {
+        "id": 52,
+        "quote": "Jangan biarkan kartu kredit atau PayLater mengendalikan keputusan belanjamu.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 53,
+        "quote": "Kemandirian finansial berarti Anda tidak lagi bergantung pada slip gaji bulan depan.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 54,
+        "quote": "Satu-satunya cara agar uang bekerja untukmu adalah dengan menjadikannya modal investasi.",
+        "author": "Anonim"
+    },
+    {
+        "id": 55,
+        "quote": "Uang berputar dengan cepat di tangan orang bodoh, tetapi menetap di tangan orang bijak.",
+        "author": "Anonim"
+    },
+    {
+        "id": 56,
+        "quote": "Sebelum menambah cicilan baru, selesaikan dulu cicilan yang lama.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 57,
+        "quote": "Belajar mengelola uang receh adalah langkah awal mengelola uang besar.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 58,
+        "quote": "Menabung adalah bentuk cinta kepada diri Anda di masa tua nanti.",
+        "author": "Anonim"
+    },
+    {
+        "id": 59,
+        "quote": "Gunakan teknologi finansial untuk mempermudah hidup, bukan memperumit utang.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 60,
+        "quote": "Bunga utang berjalan 24 jam sehari tanpa pernah mengenal hari libur.",
+        "author": "Anonim"
+    },
+    {
+        "id": 61,
+        "quote": "Kebebasan sejati adalah ketika kamu tidak perlu mencemaskan tagihan akhir bulan.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 62,
+        "quote": "Jika Anda tidak menemukan cara untuk menghasilkan uang saat tidur, Anda akan bekerja sampai mati.",
+        "author": "Warren Buffett"
+    },
+    {
+        "id": 63,
+        "quote": "Jangan membandingkan finansialmu dengan apa yang ditampilkan orang lain di media sosial.",
+        "author": "Anonim"
+    },
+    {
+        "id": 64,
+        "quote": "Mengatakan 'tidak' pada keinginan saat ini adalah investasi untuk masa depan.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 65,
+        "quote": "Rencana keuangan yang buruk lebih baik daripada tidak memiliki rencana sama sekali.",
+        "author": "Anonim"
+    },
+    {
+        "id": 66,
+        "quote": "Bijaklah mengelola bonus tahunan, alokasikan sebagian besar untuk memperkuat dana darurat.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 67,
+        "quote": "Harga diri Anda tidak ditentukan oleh merek pakaian atau jenis kendaraan yang Anda pakai.",
+        "author": "Anonim"
+    },
+    {
+        "id": 68,
+        "quote": "Uang yang dihemat adalah uang yang dihasilkan.",
+        "author": "Benjamin Franklin"
+    },
+    {
+        "id": 69,
+        "quote": "Pisahkan rekening tabungan, dana darurat, dan kebutuhan sehari-hari agar tidak tercampur.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 70,
+        "quote": "Jangan berutang untuk barang yang nilainya terus menyusut dari hari ke hari.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 71,
+        "quote": "Mulailah berinvestasi dari nominal terkecil yang konsisten, daripada nominal besar tapi sekali saja.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 72,
+        "quote": "Belanja pintar adalah membandingkan fungsi dan harga sebelum memutuskan membayar.",
+        "author": "Anonim"
+    },
+    {
+        "id": 73,
+        "quote": "Lindungi keuanganmu dengan asuransi yang tepat agar tabunganmu tidak terkuras saat sakit.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 74,
+        "quote": "Ketika Anda mengendalikan uang Anda, Anda mengendalikan masa depan Anda.",
+        "author": "Anonim"
+    },
+    {
+        "id": 75,
+        "quote": "Bunga majemuk adalah keajaiban dunia kedelapan. Dia yang memahaminya akan mendapatkannya, dia yang tidak memahaminya akan membayarnya.",
+        "author": "Albert Einstein"
+    },
+    {
+        "id": 76,
+        "quote": "Kaya adalah sebuah kondisi finansial, sedangkan bijak finansial adalah sebuah karakter.",
+        "author": "Anonim"
+    },
+    {
+        "id": 77,
+        "quote": "Kurangi frekuensi membuka aplikasi belanja jika kamu tidak memiliki kebutuhan mendesak.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 78,
+        "quote": "Hiduplah di bawah kemampuanmu, bukan tepat pada batas kemampuanmu.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 79,
+        "quote": "Setiap rupiah yang tidak dibelanjakan untuk kepuasan sesaat adalah modal untuk kebebasan masa depan.",
+        "author": "Anonim"
+    },
+    {
+        "id": 80,
+        "quote": "Utang membuat Anda menjadi budak dari pemberi pinjaman.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 81,
+        "quote": "Jika pengeluaranmu naik seiring naiknya pendapatanmu, kamu tidak akan pernah menjadi kaya.",
+        "author": "Anonim"
+    },
+    {
+        "id": 82,
+        "quote": "Kecerdasan finansial melibatkan kemampuan untuk membedakan antara investasi dan spekulasi.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 83,
+        "quote": "Jadilah penguasa atas uangmu sendiri sebelum orang lain yang mendiktenya.",
+        "author": "Anonim"
+    },
+    {
+        "id": 84,
+        "quote": "PayLater bukanlah uang tambahan, melainkan penundaan pembayaran dengan risiko denda.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 85,
+        "quote": "Uang yang diinvestasikan dengan bijak hari ini akan membiayai impianmu esok hari.",
+        "author": "Anonim"
+    },
+    {
+        "id": 86,
+        "quote": "Kunci pengelolaan keuangan yang sukses adalah konsistensi dan kesabaran.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 87,
+        "quote": "Tidak ada kata terlambat untuk mulai merapikan catatan keuangan pribadimu.",
+        "author": "Anonim"
+    },
+    {
+        "id": 88,
+        "quote": "Pasar saham adalah instrumen untuk memindahkan uang dari orang yang tidak sabar ke orang yang sabar.",
+        "author": "Warren Buffett"
+    },
+    {
+        "id": 89,
+        "quote": "Jangan tertipu oleh tren pamer kemewahan, fokuslah pada pertumbuhan kekayaan bersihmu.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 90,
+        "quote": "Miliki proteksi sebelum investasi. Pastikan fondasi keuanganmu aman dari risiko kesehatan.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 91,
+        "quote": "Uang tidak merubah karakter seseorang, uang hanya memperjelas siapa mereka sebenarnya.",
+        "author": "Anonim"
+    },
+    {
+        "id": 92,
+        "quote": "Alokasikan keuanganmu dengan rumus 50/30/20: Kebutuhan, Keinginan, dan Tabungan/Investasi.",
+        "author": "Elizabeth Warren"
+    },
+    {
+        "id": 93,
+        "quote": "Beli pengalaman, bukan hanya sekadar barang mewah. Pengalaman membentuk memori, barang mewah menyusut nilainya.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 94,
+        "quote": "Mengurangi utang secara bertahap memberikan dampak psikologis yang luar biasa positif.",
+        "author": "Anonim"
+    },
+    {
+        "id": 95,
+        "quote": "Jangan biarkan kemudahan akses pinjaman online merusak skor kredit perbankanmu.",
+        "author": "Tips Keuangan"
+    },
+    {
+        "id": 96,
+        "quote": "Mengatur keuangan keluarga membutuhkan transparansi dan kerja sama antar pasangan.",
+        "author": "Perencana Keuangan"
+    },
+    {
+        "id": 97,
+        "quote": "Tidur nyenyak tanpa beban utang adalah kemewahan sejati yang tidak ada tandingannya.",
+        "author": "Anonim"
+    },
+    {
+        "id": 98,
+        "quote": "Aset terbaik adalah bisnis yang berjalan dengan sistem yang mapan.",
+        "author": "Robert Kiyosaki"
+    },
+    {
+        "id": 99,
+        "quote": "Ingatlah bahwa kepuasan dari membeli barang baru hanya bertahan beberapa hari, tetapi cicilannya bertahan berbulan-bulan.",
+        "author": "Bijak Finansial"
+    },
+    {
+        "id": 100,
+        "quote": "Masa depan finansial Anda ditentukan oleh apa yang Anda lakukan hari ini, bukan besok.",
+        "author": "Robert Kiyosaki"
+    }
+]
